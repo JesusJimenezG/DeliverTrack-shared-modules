@@ -1,0 +1,3 @@
+[submodule "session-authentication-middleware"]
+	path = session-authentication-middleware
+	url = ./session-authentication-middleware
